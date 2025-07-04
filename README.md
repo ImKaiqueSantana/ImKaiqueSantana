@@ -35,7 +35,7 @@ Estou sempre em busca de novos conhecimentos e experiências que me façam evolu
 Fique à vontade para entrar em contato, colaborar ou trocar experiências sobre tecnologia:
 
 - ✉️ **E-mail:** kaiquesantanacontato@gmail.com  
-- 💼 **LinkedIn:** [Kaique Santana](https://www.linkedin.com/in/kaique-santana/) <!-- edite com seu link -->
+- 💼 **LinkedIn:** [Kaique Santana](https://www.linkedin.com/in/contatokaiquesantana/) 
 
 ---
 

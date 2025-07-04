@@ -1,14 +1,14 @@
 # 👨‍💻 Kaique Santana
 
-Desenvolvedor Back-End Júnior focado em construir soluções eficientes e sustentáveis com Java e Spring Boot.  
-Acredito no poder do código limpo, da colaboração e do aprendizado constante. 🚀
+Desenvolvedor Back-End Júnior focado em construir soluções com Java e Spring Boot.  
+Acredito no poder do código organizado, da colaboração e do aprendizado. 🚀
 
 ---
 
 ## 🧠 Sobre mim
 
 Atuo como dev back-end júnior, desenvolvendo aplicações com Java.  
-Meu foco está em escrever código claro, seguro e de fácil manutenção, aplicando boas práticas como SOLID e Clean Code no dia a dia.  
+Meu foco está em escrever código claro, seguro e de fácil manutenção, aplicando boas práticas.  
 Estou sempre em busca de novos conhecimentos e experiências que me façam evoluir profissionalmente.
 
 ---
@@ -25,8 +25,7 @@ Estou sempre em busca de novos conhecimentos e experiências que me façam evolu
 
 - 🔄 CI/CD e automação de deploys  
 - 🧪 Testes automatizados (TDD / BDD)  
-- ☁️ Integrações com serviços em nuvem  
-- 🧩 Microsserviços e arquitetura distribuída
+- 🧩 Microsserviços
 
 ---
 
@@ -39,7 +38,5 @@ Fique à vontade para entrar em contato, colaborar ou trocar experiências sobre
 
 ---
 
-## 💡 Curiosidade
-
 Sou movido por desafios e adoro aprender algo novo todos os dias.  
-Acredito que compartilhar conhecimento fortalece a comunidade e acelera o crescimento de todos nós. 🌱
+
